@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Shinden Digital Marketing Site
 
 You can use the [editor on GitHub](https://github.com/shinden310/marketing/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
