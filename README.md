@@ -1,15 +1,18 @@
 ## Welcome to Shinden Digital Marketing Site
 
+This is archives previously sending as mail magazine to customers, it was orgnized in issued date.
+You can find history of whitch email was sent to a customer by date.
+
 You can use the [editor on GitHub](https://github.com/shinden310/marketing/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Email Archives
 
-Issue #2022-0001
+Issue #0001, 2022/08/30
 
 ```markdown
-Subject:マガジンニュース
+Subject:マガジンニュース#0001, AMD EPYCマイクロプロセッサにおける３D V-Cache技術の紹介）
 
 # Header 1
 ## Header 2
@@ -28,10 +31,3 @@ Subject:マガジンニュース
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shinden310/marketing/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
