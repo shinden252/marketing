@@ -12,16 +12,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Issue #0001, 2022/08/30
 ```markdown
 Subject:マガジンニュース#0001, AMD EPYCマイクロプロセッサにおける３D V-Cache技術の紹介）
-
-
 ```
 Link to details: [Click Here](https://www.shinden.co.jp/)
+
 
 Issue #002, 2022/09/13
 ```markdown
 Subject:マガジンニュース#002, AMD RadeonPRO ファミリー
-
-
-
-'''
+```
 Link to details: [Click Here](https://www.shinden.co.jp/)
+
