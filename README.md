@@ -1,24 +1,22 @@
 ## Welcome to Shinden Digital Marketing Site
 
-This is archives previously sending as mail magazine to customers, it was orgnized in issued date.
-You can find history of whitch email was sent to a customer by date.
+This is email archives previously sending as mail magazine to customers, it was organized by issued date & serial numbers.
+You can find history of whitch email was sent to a customer by date & Number.
 
-You can use the [editor on GitHub](https://github.com/shinden310/marketing/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Email Archives
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Email Archives
-
-Issue #0001, 2022/08/30
+### Issue #0001, 2022/08/30
 ```markdown
-Subject:シンデンハイテックス株式会社メールマガジン第1号[AMD EPYCマイクロプロセッサにおける３D V-Cache技術の紹介]
+Subject:シンデンハイテックス株式会社メールマガジン第1号(AMD EPYCマイクロプロセッサにおける３D V-Cache技術の紹介)
 ```
-Link to details: [Click Here](https://www.shinden.co.jp/)
+Link to details: [Radeon-Pro-W6400-Datasheet.pdf](https://github.com/shinden252/marketing/blob/archives/Radeon-Pro-W6400-Datasheet.pdf)
 
 
-Issue #002, 2022/09/13
+### Issue #002, 2022/09/13
 ```markdown
-Subject:シンデンハイテックス株式会社メールマガジン第2号[AMD RadeonPRO ファミリーのご紹介]
+Subject:シンデンハイテックス株式会社メールマガジン第2号(AMD RadeonPRO ファミリーの紹介)
 ```
-Link to details: [Click Here](https://www.shinden.co.jp/)
+Link to details: [Click Here](https://github.com/shinden252/marketing/blob/archives/Radeon-Pro-W6400-Datasheet.pdf)
+
+## End of Archives
 
