@@ -10,24 +10,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Email Archives
 
 Issue #0001, 2022/08/30
-
 ```markdown
 Subject:マガジンニュース#0001, AMD EPYCマイクロプロセッサにおける３D V-Cache技術の紹介）
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+Link to details: [Click Here](https://www.shinden.co.jp/)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Issue #002, 2022/09/13
+```markdown
+Subject:マガジンニュース#002, AMD RadeonPRO ファミリー
 
+
+
+'''
+Link to details: [Click Here](https://www.shinden.co.jp/)
