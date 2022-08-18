@@ -1,6 +1,7 @@
 @charset "large-1";
-p{
+p style{
     font-weight: bold;
+    
     background-color: Yello;
     color: black;
 }
