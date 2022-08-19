@@ -20,6 +20,8 @@ h3{
 
 .box{
     display: flex;
+    width: 100%;
+    height: auto;
 }
 .toplogo{
     width: 30%;
@@ -28,10 +30,10 @@ h3{
     width: 70%;
 }
 .boxissue{
-    width: 1000px;
+    width: 40%;
 }
 .boxdata{
-    width: 800px;
+    width: 60%;
 }
 
 
