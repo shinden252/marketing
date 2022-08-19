@@ -19,12 +19,8 @@ h3{
 }
 
 .boxtop {
-    border; none;
-    &:after {
-        content: "";
-        display: block;
-        clear: both;
-    }
+    border: none;
+    background-color: blue;
 }
 .boxlogo {
     width: 20%;
