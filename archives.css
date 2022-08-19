@@ -1,24 +1,24 @@
 @charset "UTF-8";
 #subject{
     color :black;
-    font-size: 120%
+    font-size: 120%;
 }
 
 h1{
     font-weight: bold;
     font-size: 150%;
     background-color: green;
-    color: black
+    color: black;
 }
 
 h2{
     font-size: 120%;
-    color: black
+    color: black;
 }
 
 h3{
     font-size: 100%;
-    color: black
+    color: black;
 }
 
 .title-box {
@@ -28,6 +28,10 @@ h3{
 .logo-box {
     width: 20px;
     height: 20px;
+}
+.img {
+    height: 100%;
+    width: 100%;
 }
 .cover {
     object-fit: cover;
