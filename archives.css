@@ -18,6 +18,9 @@ h3{
     color: black;
 }
 
+.wrappertop {
+    display: flex;
+}
 .wrapper {
     display: flex;
 }
