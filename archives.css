@@ -1,7 +1,17 @@
-@charset "large-1";
-p style{
+@charset "UTF-8";
+h1{
     font-weight: bold;
-    
-    background-color: Yello;
-    color: black;
+    font-size: 150%;
+    background-color: green;
+    color: black
+}
+
+h2{
+    font-size: 120%;
+    color: black
+}
+
+h3{
+    font-size: 100%;
+    color: black
 }
