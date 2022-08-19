@@ -17,17 +17,13 @@ h3{
     font-size: 100%;
     color: black;
 }
-.title-box {
-    width: 200px;
-    height: 20px;
-}
-.logo-box {
+.box {
     width: 20px;
     height: 20px;
 }
 .img {
-    height: 10%;
-    width: 10%;
+    height: 100%;
+    width: 100%;
 }
 .cover {
     object-fit: cover;
