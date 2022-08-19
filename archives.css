@@ -22,20 +22,17 @@ h3{
     display: flex;
 }
 .boxlogo {
-    width: 20%;
-    height: 60px;
+    width: 30%;
+    height: 120px;
 }
 .boxtitle {
+    width: 70%;
+}
+.boxissue {
+    width: 20%;
+}
+.boxattachement {
     width: 80%;
 }
-img {
-    height: 100%;
-    width: 100%;
-}
-.cover {
-    object-fit: cover;
-}
-.contain {
-    object-fit:contain;
-}
+
 
