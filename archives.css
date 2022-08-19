@@ -17,6 +17,15 @@ h3{
     font-size: 100%;
     color: black;
 }
+
+.boxtop {
+    border; none;
+    &:after {
+        content: "";
+        display: block;
+        clear: both;
+    }
+}
 .boxlogo {
     width: 20%;
 }
