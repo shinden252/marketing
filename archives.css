@@ -17,8 +17,12 @@ h3{
     font-size: 100%;
     color: black;
 }
-.box {
+.boxlogo {
     width: 60px;
+    height: 60px;
+}
+.boxtitle {
+    width: 300px;
     height: 60px;
 }
 img {
