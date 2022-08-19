@@ -18,7 +18,10 @@ h3{
     color: black;
 }
 
-.wrappertop {
+.topline {
+    display: flex;
+}
+.toptitle{
     display: flex;
 }
 .wrapper {
