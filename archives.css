@@ -20,3 +20,15 @@ h3{
     font-size: 100%;
     color: black
 }
+
+.title-box {
+    width: 1000px;
+    height: 200px;
+}
+.logo-box {
+    width: 200px;
+    height: 200px;
+}
+.cover {
+    object-fit: cover;
+}
