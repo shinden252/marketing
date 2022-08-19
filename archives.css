@@ -18,26 +18,20 @@ h3{
     color: black;
 }
 
-.topline {
-    display: flex;
-}
 .toptitle{
     display: flex;
 }
 .wrapper {
     display: flex;
 }
-.boxlogo {
+.toplogo {
     width: 30%;
-    height: 120px;
-}
-.boxtitle {
-    width: 70%;
+    height: 60px;
 }
 .boxissue {
     width: 20%;
 }
-.boxattachement {
+.boxdata {
     width: 80%;
 }
 
