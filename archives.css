@@ -22,12 +22,12 @@ h3{
 }
 
 .title-box {
-    width: 1000px;
-    height: 200px;
+    width: 200px;
+    height: 20px;
 }
 .logo-box {
-    width: 200px;
-    height: 200px;
+    width: 20px;
+    height: 20px;
 }
 .cover {
     object-fit: cover;
