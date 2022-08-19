@@ -1,4 +1,9 @@
 @charset "UTF-8";
+#subject{
+    color :black;
+    font-size: 120%
+}
+
 h1{
     font-weight: bold;
     font-size: 150%;
