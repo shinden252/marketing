@@ -18,9 +18,8 @@ h3{
     color: black;
 }
 
-.boxtop {
-    border: none;
-    background-color: blue;
+.wrapper {
+    display: flex;
 }
 .boxlogo {
     width: 20%;
