@@ -56,11 +56,18 @@ h3{
     height: auto;
 }
 
-.box-email{
+.box-mail{
+    width: 640px;
     border: 1px solid #008b8b;
     background-color: #e0ffff;
-    align-items: center;
 }
+
+.box-img{
+    width: 640px;
+    text-align: center;
+    background-color: #e0ffff;
+}
+
 
 
 
