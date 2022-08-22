@@ -35,15 +35,15 @@ h3{
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    width: 100%;
+    width: 80%;
 }
 
 .box-logo{
-    flex-basis: 30%;
+    flex-basis: 10%;
 }
 
 .box-title{
-    flex-basis: 70%;
+    flex-basis: 90%;
 }
 
 .box-date{
@@ -52,18 +52,18 @@ h3{
 }
 
 .box-contents{
-    flex-basis: 80%;
+    flex-basis: 60%;
     height: auto;
 }
 
 .box-mail{
-    width: 640px;
+    width: 80%;
     border: 1px solid #008b8b;
     background-color: #e0ffff;
 }
 
 .box-img{
-    width: 640px;
+    width: 80%;
     text-align: center;
     background-color: #e0ffff;
 }
