@@ -1,0 +1,126 @@
+/*----------------------------------------------*/
+/*  CSS file for mail Magazine Attachement File Control Site  */
+/*  Created on Mar-22,2023 Release R1.2            */
+/*----------------------------------------------*/
+@charset "UTF-8";
+h1{
+    font-weight: bold;
+    font-size: 140%;
+    background-color: #81f79f;
+    color: black;
+}
+
+h2{
+    font-weight: bold:
+    font-size: 120%;
+    color: black;
+}
+
+h3{
+    font-weight: bold;
+    font-size: 100%;
+    color: black;
+}
+
+h4{
+    font-wight: bold;
+    font-size: 80%
+    color: black;
+}
+
+.main-text{
+    font-size: 80%
+    font-weight: normal;
+    color: black;
+}
+
+.align-right{
+    text-align: right;
+}
+.align-left{
+    text-align: left;
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 100%;
+}
+
+.box-logo{
+    flex-basis: 10%;
+}
+
+.box-title{
+    flex-basis: 90%;
+}
+
+.box-date{
+    height: auto;
+}
+
+.box-subject{
+    height: auto;
+}
+
+.box-text{
+    height: auto;
+}
+
+.box-img2{
+    display:flex;
+    justify-content: space-center;
+    }
+
+.box-mail{
+    width: 80%;
+    border: 1px solid #008b8b;
+    background-color: #e0ffff;
+}
+
+.box-img{
+    width: 80%;
+    text-align: center;
+    background-color: #e0ffff;
+}
+
+.link-button{
+    border-radius: 5px;
+    background-color: lightgreen;
+    padding: 2px;
+    text-decoration: none;
+    color: black;
+}
+
+.link-button-plan{
+    border-radius: 5px;
+    background-color: lightgreen;
+    padding: 2px;
+    text-decoration: none;
+    color: gray;
+}
+
+/*----- Table Creation----- */
+
+table {
+    border-collapse: collapse;
+    width:100%;
+    /*max-width: 100%;*/
+    color: Black;
+    background-color: #f0f2f7;
+}
+
+th,td {
+    border: solid 1px #333;
+    padding: 5px 15px;
+}
+
+.table-center {
+    text-align: center;
+}
+.table-style{
+    font-family: small serif;
+    
+    }
+
